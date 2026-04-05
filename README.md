@@ -1,4 +1,5 @@
 📊 Customer Behaviour Analysis Dashboard
+
 📌 Overview
 
 This project focuses on analyzing customer purchasing behavior using Python, SQL, and Power BI. The goal is to extract meaningful insights from raw data, understand customer segments, and visualize trends through an interactive dashboard.
@@ -6,6 +7,7 @@ This project focuses on analyzing customer purchasing behavior using Python, SQL
 The workflow includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and dashboard creation.
 
 📂 Dataset
+
 The dataset contains customer-level transactional data, including:
 Customer ID
 Gender
